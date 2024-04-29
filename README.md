@@ -2,7 +2,7 @@
  
 Quick addition here.
 
-Another addition. Chicken for your soul.
+Another addition. Chicken soup for your soul.
 
 ## Wild Rice Soup Feature
 
